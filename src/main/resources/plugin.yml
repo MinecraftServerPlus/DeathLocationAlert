@@ -1,0 +1,8 @@
+name: DeathLocationAlert
+version: '${version}'
+main: io.github.vitelotte.deathlocationalert.DeathLocationAlert
+api-version: '1.20'
+prefix: DeathLocationAlert
+authors: [9um4]
+description: Show last death location when player died
+website: https://github.com/9um4
